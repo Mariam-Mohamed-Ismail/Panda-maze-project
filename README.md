@@ -17,6 +17,7 @@ The game is designed to be:
 
 You move the panda through the maze, avoid walls, and reach the treasure to win.
 Every playthrough can optionally generate a new maze layout, making the game fun and replayable.
+
 -----------------------------------------------------------------------------------------------
 🌟 Features:
 -------------
@@ -37,6 +38,7 @@ Every playthrough can optionally generate a new maze layout, making the game fun
 🔀 Optional random maze generation
 
 🎨 Fully textured UI and world
+
 -------------------------------------------------------------------------------------------------
 🛠 Technologies Used:
 ----------------------
@@ -51,6 +53,7 @@ Every playthrough can optionally generate a new maze layout, making the game fun
 5-Event handling
 
 6-UI screen creation
+
 ----------------------------------------------------------------------------------------------------
 🖼️ Screenshots:
 ----------------
