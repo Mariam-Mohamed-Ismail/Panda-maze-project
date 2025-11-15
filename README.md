@@ -26,3 +26,25 @@ Every playthrough can optionally generate a new maze layout, making the game fun
 🎉 Win screen when treasure is found
 🔀 Optional random maze generation
 🎨 Fully textured UI and world
+-------------------------------------------------------------------------------------------------
+🛠 Technologies Used
+
+1-C++
+
+2-SFML 2.6+
+
+3-Object-Oriented Programming
+
+4-Sprite & texture rendering
+
+5-Event handling
+
+6-UI screen creation
+
+
+
+
+
+
+
+
