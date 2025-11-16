@@ -167,12 +167,12 @@ int main() {
     sf::Sound clickSound, treasureSound;
 
     // File paths (adjust if needed)
-    const std::string p_panda = "../assets/textures/Panda.png";
-    const std::string p_coin = "../assets/textures/coins.png"; // coin is treasure
-    const std::string p_bamboo = "../assets/textures/bamboo.png";
-    const std::string p_font = "../assets/fonts/cute_font.ttf";
-    const std::string s_click = "../assets/sounds/click.wav";
-    const std::string s_treasure = "../assets/sounds/treasure.wav";
+    const std::string p_panda = "assets/textures/Panda.png";
+    const std::string p_coin = "assets/textures/coins.png"; // coin is treasure
+    const std::string p_bamboo = "assets/textures/bamboo.png";
+    const std::string p_font = "assets/fonts/cute_font.ttf";
+    const std::string s_click = "assets/sounds/click.wav";
+    const std::string s_treasure = "assets/sounds/treasure.wav";
 
     bool okAssets = true;
     if (!font.loadFromFile(p_font)) { std::cerr << "Warning: font not found: " << p_font << "\n"; okAssets = false; }
